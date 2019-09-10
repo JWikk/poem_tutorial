@@ -11,6 +11,7 @@ edit2
 911 Carrera 4S
 
 1973 911 RS
+
 AMG GT R
 
 
@@ -23,3 +24,8 @@ TT RS
 Q3
 
 Portofino
+
+918 Spyder
+Taycan
+
+Aston Martin DB5 007 Skyfall
